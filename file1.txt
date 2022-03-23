@@ -2,3 +2,6 @@ training local
 training master
 training
 local1
+master1
+local2
+
